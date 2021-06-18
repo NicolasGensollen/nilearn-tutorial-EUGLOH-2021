@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NicolasGensollen/nilearn-tutorial-EUGLOH-2021/HEAD)
+
 # nilearn tutorial EUGLOH 2021
 
 This repository holds the materials for the Nilearn tutorial for the EUGLOH Summer School focused on Neuroscience.
