@@ -80,5 +80,5 @@ You can then go back to the "The easy case" section and follow the instructions.
 
 ### Running the turorial notebooks online
 
-TODO
+Alternatively, you can run the notebooks online via Binder by clicking this link: [https://mybinder.org/v2/gh/NicolasGensollen/nilearn-tutorial-EUGLOH-2021/HEAD](https://mybinder.org/v2/gh/NicolasGensollen/nilearn-tutorial-EUGLOH-2021/HEAD) or clicking the Binder badge at the top of the README file.
 
